@@ -1,0 +1,1 @@
+A script which allows symbolic maths, with variables and polynomials, to be performed without the use of the sympy library.
